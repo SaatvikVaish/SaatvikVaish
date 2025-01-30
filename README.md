@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+It's+Me+!+👋;+SAATVIK+VAISH+!;" />
+</h1>
 
-<!--
-**SaatvikVaish/SaatvikVaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    I'm a
+    <br/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Developer;Researcher;Analyst;Gamer;Photographer;" />
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center">I'm SAATVIK, a passionate computer Science Student.</h3>
+
+
+<!-- Random Dev Quote -->
+<h2 align="center">✍️ Random Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+

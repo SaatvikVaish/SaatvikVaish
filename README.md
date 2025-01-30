@@ -19,5 +19,9 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+<!-- Profile View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaatvikVaish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
 
 
